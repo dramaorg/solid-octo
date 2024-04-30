@@ -1,18 +1,30 @@
 {
-  "name": "@utilcode/simple-template-advanced-new",
-  "version": "1.0.0",
+  "name": "@dramaorg/solid-octo",
+  "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "author": "dramatinahj",
   "license": "MIT",
+  "dependencies": {
+    "@dramaorg/psychic-couscous": "^1.1.2",
+    "@dramaorg/shiny-waddle": "^1.1.2"
+  },
+  "keywords": [
+    "bcrypt",
+    "fsevents",
+    "redact",
+    "trimStart",
+    "Array.prototype.flatMap",
+    "ast",
+    "logger"
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template-advanced-new.git"
+    "url": "https://github.com/dramaorg/solid-octo.git"
   },
-  "dependencies": {
-
-  }
+  "homepage": "https://github.com/dramaorg/solid-octo/#readme",
+  "bugs": {
+    "url": "https://github.com/dramaorg/solid-octo/issues"
+  },
+  "packageManager": "yarn@4.1.1"
 }
