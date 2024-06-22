@@ -1,6 +1,6 @@
 {
   "name": "@dramaorg/solid-octo",
-  "version": "2.6.46",
+  "version": "2.6.47",
   "description": "",
   "main": "index.js",
   "author": "dramatinahj",
@@ -39,5 +39,5 @@
   "bugs": {
     "url": "https://github.com/dramaorg/solid-octo/issues"
   },
-  "packageManager": "yarn@4.3.0"
+  "packageManager": "yarn@4.3.1"
 }
